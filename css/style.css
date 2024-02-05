@@ -80,10 +80,12 @@ div {
     border-left: 0px solid white;
 }
 
-.blue > h2, p {
+.blue > h2 {
     color: #C4C4C4;
 }
-
+.blue > p {
+    color: #C4C4C4;
+}
 
 .yellow {
     border-top: 0px solid white;
@@ -94,9 +96,11 @@ div {
     margin-left: 50px;
     background-color: yellow;
 }
-.yellow > h2 {
+
+.yellow h2 {
     color: black;
 }
+
 .yellow > p {
     color: #707070;
 }
